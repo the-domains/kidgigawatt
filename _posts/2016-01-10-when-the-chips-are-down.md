@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T01:09:35.401Z'
-dateModified: '2016-01-10T01:07:00.556Z'
+datePublished: '2016-01-10T04:20:01.260Z'
+dateModified: '2016-01-10T04:19:12.885Z'
 title: When the Chips Are Down
 author: []
+sourcePath: _posts/2016-01-10-when-the-chips-are-down.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-when-the-chips-are-down.md
-published: true
 url: when-the-chips-are-down/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c40397-f443-43c5-8bdb-95cdfbce5710.jpg)
+
 # When the Chips Are Down
 
 Remember that scene in Big Hero 6\* when the "good chip" was removed from principled and billowy Baymax, and he goes all caveman cavebot? His eyes become apertures, tunneling in with blank red rage.\*\* 
@@ -54,4 +56,4 @@ Kelley
 
 \*\*\* I love those, and 20% off! 
 
-\*\*\*\* She's pretty much the coolest lady ever. And I thought the Trader Joe's customers were the nicest! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c40397-f443-43c5-8bdb-95cdfbce5710.jpg)
+\*\*\*\* She's pretty much the coolest lady ever. And I thought the Trader Joe's customers were the nicest!
