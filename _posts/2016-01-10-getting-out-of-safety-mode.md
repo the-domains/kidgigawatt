@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-10T02:06:27.537Z'
-dateModified: '2016-01-10T02:06:07.051Z'
+description: 'On the dual nature of tubes, brain spots, and why you should never go on WebMD without a medical degree.'
+datePublished: '2016-01-10T04:19:39.657Z'
+dateModified: '2016-01-10T04:19:34.124Z'
 title: Getting Out of Safety Mode
 author: []
+sourcePath: _posts/2016-01-10-getting-out-of-safety-mode.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-getting-out-of-safety-mode.md
-published: true
 url: getting-out-of-safety-mode/index.html
 _type: Article
 
 ---
+![Monterey Aquarium](https://the-grid-user-content.s3-us-west-2.amazonaws.com/259a7aae-b0d2-499e-82e6-9c41a6edd0c2.jpg)
+
 # Getting Out of Safety Mode
 
 "Are you here for an MRI?", the lady asks. I nod my head, and she does not ask my name before closing the slider and settling back behind her glass bunker. 
@@ -52,4 +54,3 @@ Because sometimes nothing is wrong except the noise and the story you tell yours
 Kelley 
 
 \* We loved and lived in our house for a decade, and as we drove by the last time, Roman's little voice piped up from the back seat: "Bye, house. Thank you, house!" Heart. Broken.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/259a7aae-b0d2-499e-82e6-9c41a6edd0c2.jpg)
