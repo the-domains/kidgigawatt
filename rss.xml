@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KidGigawatt]]></title>
+        <description><![CDATA[KidGigawatt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 01:09:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When the Chips Are Down]]></title>
+            <description><![CDATA[<article><h1>When the Chips Are Down</h1><p>Remember that scene in Big Hero 6* when the “good chip” was removed from principled and billowy Baymax, and he goes all caveman cavebot? His eyes become apertures, tunneling in with blank red rage.** </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/907e142afb6da03283aef84eb96b861547a19f43.jpg"></article>]]></description>
+            <link>undefinedwhen-the-chips-are-down/index.html</link>
+            <guid isPermaLink="false">bcb2845e-cf61-456b-833d-87644614cc58</guid>
+            <pubDate>Sun, 10 Jan 2016 01:09:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
